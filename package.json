@@ -1,0 +1,18 @@
+{
+  "name": "github-beautify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "abi",
+  "license": "ISC",
+  "devDependencies": {
+    "gsap": "^3.12.2",
+    "lil-gui": "^0.18.2",
+    "three": "^0.156.1",
+    "vite": "^4.4.9"
+  }
+}
